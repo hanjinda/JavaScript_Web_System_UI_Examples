@@ -1,2 +1,2 @@
-# Alumni_Web_Data_Mining_System
-Alumni Web Data Mining System
+# JavaScript_Web_System_Examples
+JavaScript Web System Examples
